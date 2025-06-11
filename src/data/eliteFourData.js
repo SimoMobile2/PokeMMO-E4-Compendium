@@ -72,13 +72,13 @@ export const eliteFourMembers = [
             {
               type: "step",
               player:
-                "Ally Stealth Rock ⇒ Enemy swaps Claydol \n ⇒ Switch to Chandelure and 3x Calm Mind + X Speed",
+                "Stealth Rock, Claydol swap,\n Swap to Chandelure,\n 3x Calm Mind + X Speed.",
               variations: [
-                // Aggiunto array di variazioni
+                // Aggiunto array di variazionis
                 {
                   type: "step",
                   player:
-                    "If Claydol switches into Lapras. \n Swap to Blissey (Baiting Lucario). \n Trick, then switch to Chandelure 3x Calm Mind + X Speed",
+                    "If Claydol swaps into Lapras,\n Swap to Blissey (Baiting Lucario),\n Trick,\n Swap to Chandelure,\n 3x Calm Mind + X Speed.",
                 },
               ],
             },
@@ -86,22 +86,22 @@ export const eliteFourMembers = [
           Bronzong: [
             {
               type: "step",
-              player: "[Trick]",
+              player: "Trick",
               variations: [
                 // Aggiunto array di variazioni
                 {
                   type: "step",
                   player:
-                    "[Earthquake] switch to Excadrill \n Stealth Rock, then 3x Swords Dance + X Speed",
+                    "Bronzong uses Earthquake, \n Swap to Excadrill,\n Stealth Rock,\n 3x Swords Dance + X Speed.",
                 },
                 {
                   type: "step",
-                  player: "[Gyro Ball] switch to Poliwrath",
+                  player: "Bronzong uses Gyro Ball,\n Swap to Poliwrath,",
                   variations: [
                     {
                       type: "step",
                       player:
-                        "if Lapras comes out, Belly Drum. if Golduck is sent out, let it use Toxic on you then use Ice Punch on Vileplume",
+                        "Lapras comes out,\n Belly Drum;\n Golduck is sent out, let it use Toxic on you then use Ice Punch on Vileplume",
                     },
                     {
                       type: "step",

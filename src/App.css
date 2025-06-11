@@ -662,17 +662,18 @@ body {
 }
 
 .strategy-step p span.pokemon-color {
-    color: #74cc74 !important; /* Un verde chiaro per i nomi dei Pokémon */
+    color: #fbfcfb !important; /* Un verde chiaro per i nomi dei Pokémon */
     font-weight: bold;
 }
 
 .strategy-step p span.move-item-color {
-    color: #ffcc00 !important; /* Un giallo/arancione per mosse e strumenti */
+    color: #90ff8e !important; /* Un giallo/arancione per mosse e strumenti */
     font-weight: bold;
 }
 
 .strategy-step p span.action-color {
-    color: #89b4fa !important; /* Un blu chiaro per le azioni (Switch, use, etc.) */
+    color: #f35858 !important; /* Un blu chiaro per le azioni (Switch, use, etc.) */
+    font-weight: bold;
 }
 
 /* Assicurati che lo stile per .strategy-step p non sovrascriva il colore */

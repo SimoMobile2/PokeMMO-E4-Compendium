@@ -37,9 +37,11 @@ function App() {
       "Belly Drum": "move-item-color",
       "Drain Punch": "move-item-color",
       "Drill Run": "move-item-color",
+      "Swap": "move-item-color",
+      "swap": "action-color",
+
       // Aggiungi altre parole chiave se necessario
       "Enemy": "action-color",
-      "Ally": "action-color",
       "use": "action-color",
       "Baiting": "action-color",
       "setting up": "action-color",
@@ -47,6 +49,15 @@ function App() {
       "comes out": "action-color",
       "is sent out": "action-color",
       "let it use": "action-color",
+
+      //Pokemon
+      "Claydol": "pokemon-color",
+      "Chandelure": "pokemon-color",
+      "Lapras": "pokemon-color",
+      "Blissey": "pokemon-color",
+      "Lucario": "pokemon-color",
+      "Bronzong": "pokemon-color"
+
   };
 
   // Funzione per colorare il testo della strategia
